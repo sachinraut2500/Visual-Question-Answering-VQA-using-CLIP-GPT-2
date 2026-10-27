@@ -2,7 +2,7 @@
 
 This project demonstrates a basic Visual Question Answering (VQA) system by combining **CLIP** for visual and text understanding with **GPT-2** for answer generation.
 
----
+------
 
 ## 📌 Overview
 
