@@ -10,7 +10,7 @@ This project demonstrates a basic Visual Question Answering (VQA) system by comb
 - Combine embeddings to form a basic multimodal context
 - Use GPT-2 to generate textual answers
 
----
+------
 
 ## ⚙️ Requirements
 
